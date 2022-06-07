@@ -19,9 +19,15 @@ body {
 }
 
 form{
+    background-color: rgba(138,26,236,0.5);
+    margin: auto;
     text-align: left;
-    margin-left: 45%;
-    
+    width: max-content;
+}
+
+#comment-area {
+    min-width: 500px;
+    max-width: 500px;
 }
 
 #title {
