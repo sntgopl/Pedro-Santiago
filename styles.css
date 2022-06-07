@@ -1,0 +1,35 @@
+head {
+    display: flex;
+    margin-top: 0px;
+}
+
+main {
+    background-image: linear-gradient(to bottom, blue, purple);
+    height: auto;
+ 
+}
+
+body {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+
+}
+
+#title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color:aliceblue;
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 0px;
+    padding: 25px;
+}
+
+input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+label {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
