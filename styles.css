@@ -6,7 +6,6 @@ head {
 main {
     background-image: linear-gradient(to bottom, blue, purple);
     height: auto;
- 
 }
 
 body {
@@ -40,12 +39,12 @@ form{
 }
 
 input {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 label {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #submit {
